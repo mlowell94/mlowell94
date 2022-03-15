@@ -1,5 +1,5 @@
-Studying for my Master's in Linguistics
+Pursuing a Master's in Linguistics
 
-Interested in NLP, CompLing
+Interested in software development! ~1 year of Python experience.
 
-Learning Python and trying to make up for lost time.
+I've done a number of in-class projects that involved tackling a number of problems, and you can find their solutions here!
